@@ -1,6 +1,6 @@
 # 👩🏻‍💻 João Victor Mesquita
 
-Olá! Me chamo João Victor e sou estudante de Análise e Desenvolvimento de Sistemas, atualmente cursando na FATEC Taubaté. Tenho muito interesse pela área de tecnologia, principalmente no desenvolvimento web.
+Olá! Me chamo João Victor e sou estudante de Análise e Desenvolvimento de Sistemas, atualmente cursando na FATEC Taubaté. Tenho muito interesse pela área de tecnologia, principalmente no back-end.
 <br>
 Gosto de aprender coisas novas e estou sempre procurando evoluir, tanto tecnicamente quanto como profissional. Estou em busca da minha primeira oportunidade na área de TI para colocar em prática o que venho estudando e crescer junto com a empresa.
 
